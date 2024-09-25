@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name = 'SwiftProtobuf'
+  s.name = 'EmbraceInternalSwiftProtobuf'
   s.version = '1.28.1'
   s.license = { :type => 'Apache 2.0', :file => 'LICENSE.txt' }
   s.summary = 'Swift Protobuf Runtime Library'
